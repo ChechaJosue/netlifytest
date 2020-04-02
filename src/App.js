@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Grupo 1 practicas intermedias
+          telosico mejor
         </a>
       </header>
     </div>
